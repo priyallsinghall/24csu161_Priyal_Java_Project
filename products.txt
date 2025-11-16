@@ -1,0 +1,2 @@
+1,Pencil,20.0,0,Consumable
+2,Lays,30.0,61,Consumable
